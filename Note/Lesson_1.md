@@ -1,7 +1,7 @@
 Project 1 -- Sudoku AI
 
 * Two Fundational AI tech
-    - constraint Propgation
+    - Constraint Propgation
         + elimination,
         + only_choice
         such as: map coloring, Crypto-Arithmetic Puzzles
